@@ -4,3 +4,7 @@ Contexte : The American stock market is the most liquid equity market of the pla
 
 Objectif : Use past volatilities and price changes of financial instruments to predict future volatility and control the risk of financial portfolios
 Link : https://challengedata.ens.fr/participants/challenges/22/
+Link to data :
+  x_train link : https://challengedata.ens.fr/participants/challenges/22/download/x-train
+  y_train link : https://challengedata.ens.fr/participants/challenges/22/download/y-train
+  x_test : https://challengedata.ens.fr/participants/challenges/22/download/x-test
